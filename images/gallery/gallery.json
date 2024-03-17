@@ -1,0 +1,185 @@
+[
+  {
+    "Series": "Winterly Fruit Supplies",
+    "Description": "In harsh winter times we wander to the vitamin wonders to plenish.",
+    "Images": [
+      {
+        "File": "01_Blueberry.png",
+        "Title": "The Blueberry",
+        "Colors": "light"
+      },
+      {
+        "File": "01_Pomegranate.png",
+        "Title": "The Pomegranate",
+        "Colors": "light"
+      },
+      {
+        "File": "01_Banana.png",
+        "Title": "The Banana",
+        "Colors": "light"
+      },
+      {
+        "File": "01_Coconut.png",
+        "Title": "The Coconut",
+        "Colors": "light"
+      },
+      {
+        "File": "01_Grape.png",
+        "Title": "The Grapes",
+        "Colors": "light"
+      },
+      {
+        "File": "01_Lemon.png",
+        "Title": "The Lemon",
+        "Colors": "light"
+      },
+      {
+        "File": "01_Pineapple.png",
+        "Title": "The Pineapple",
+        "Colors": "light"
+      },
+      {
+        "File": "01_Raspberry.png",
+        "Title": "The Raspberry",
+        "Colors": "light"
+      },
+      {
+        "File": "01_Watermelon.png",
+        "Title": "The Watermelon",
+        "Colors": "light"
+      }
+    ]
+  },
+  {
+    "Series": "Magical Passiflora",
+    "Description": "Are they marvellous?",
+    "Images": [
+      {
+        "File": "02_Black.png",
+        "Title": "Passiflora of Night",
+        "Colors": "dark"
+      },
+      {
+        "File": "02_Rainbow.png",
+        "Title": "Rainbow Passiflora",
+        "Colors": "dark"
+      },
+      {
+        "File": "02_Red.png",
+        "Title": "Passiflora of Dawn",
+        "Colors": "dark"
+      },
+      {
+        "File": "02_Karla1.png",
+        "Title": "Test Karla",
+        "Colors": "dark"
+      }
+    ]
+  },
+  {
+    "Series": "Future Food",
+    "Description": "Is there even a line between art and artificial flavours?",
+    "Images": [
+      {
+        "File": "03_Sundae.png",
+        "Title": "The Sundae",
+        "Colors": "light"
+      },
+      {
+        "File": "03_Cheesecake.png",
+        "Title": "The Cheesecake",
+        "Colors": "light"
+      }
+    ]
+  },
+  {
+    "Series": "Visitors at Lily",
+    "Description": "Knock knock - who's there?",
+    "Images": [
+      {
+        "File": "04_Bumblebee.png",
+        "Title": "The Bumblebee",
+        "Colors": "dark"
+      },
+      {
+        "File": "04_Butterfly.png",
+        "Title": "The Butterfly",
+        "Colors": "dark"
+      },
+      {
+        "File": "04_Caterpillar.png",
+        "Title": "The Caterpillar",
+        "Colors": "dark"
+      }
+    ]
+  },
+  {
+    "Series": "They've been among us all along!",
+    "Description": "I couldn't believe it myself, but then I found these photographs in my grandfather's old drawer.",
+    "Images": [
+      {
+        "File": "05_Sloth.png",
+        "Title": "The Sloth",
+        "Colors": "dark"
+      },
+      {
+        "File": "05_Quokka.png",
+        "Title": "The Quokka",
+        "Colors": "dark"
+      }
+    ]
+  },
+  {
+    "Series": "Chlorophyllic Cryptography",
+    "Description": "What are they trying to tell us?",
+    "Images": [
+      {
+        "File": "06_Citymap.png",
+        "Title": "Lost City Map",
+        "Colors": "dark"
+      },
+      {
+        "File": "06_Archaic.png",
+        "Title": "Archaic Inscriptions",
+        "Colors": "dark"
+      }
+    ]
+  },
+  {
+    "Series": "Polypore Reclaim",
+    "Description": "This is a takeover!",
+    "Images": [
+      {
+        "File": "07_Car.png",
+        "Title": "Mushroom Car",
+        "Colors": "dark"
+      },
+      {
+        "File": "07_Electricbox.png",
+        "Title": "Mushroom Box",
+        "Colors": "dark"
+      },
+      {
+        "File": "07_Washingmachine.png",
+        "Title": "Washing Machine",
+        "Colors": "dark"
+      }
+    ]
+  },
+  {
+    "Series": "Winter on Mars",
+    "Description": "Put on your space socks!",
+    "Images": [
+      {
+        "File": "08_Astronaut.png",
+        "Title": "The Astronaut",
+        "Colors": "light"
+      },
+      {
+        "File": "08_Rover.png",
+        "Title": "The Rover",
+        "Colors": "light"
+      }
+    ]
+  }
+]
