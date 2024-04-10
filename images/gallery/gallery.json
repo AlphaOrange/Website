@@ -1,7 +1,7 @@
 [
   {
     "Series": "Winterly Fruit Supplies",
-    "Description": "In harsh winter times we wander to the vitamin wonders to plenish.",
+    "Description": "Hey, grab your gear and let's head out into the frosty winter landscape. Those fruits look too good to resist. Can't wait to dig in and taste that freshness!",
     "Images": [
       {
         "File": "01_Blueberry.png",
@@ -52,7 +52,7 @@
   },
   {
     "Series": "Magical Passiflora",
-    "Description": "Are they marvellous?",
+    "Description": "Behold these exquisite blooms! Aren't they simply captivating? Such wondrous hues, clearly crafted with so much passion!",
     "Images": [
       {
         "File": "02_Black.png",
@@ -68,17 +68,12 @@
         "File": "02_Red.png",
         "Title": "Passiflora of Dawn",
         "Colors": "dark"
-      },
-      {
-        "File": "02_Karla1.png",
-        "Title": "Test Karla",
-        "Colors": "dark"
       }
     ]
   },
   {
     "Series": "Future Food",
-    "Description": "Is there even a line between art and artificial flavours?",
+    "Description": "As your automated server today, may I recommend dish #12? It boasts a balance of nutritional values, enriched with vitamin supplements, meticulously crafted by our AI dish designer to not only satiate your palate but also delight your senses.",
     "Images": [
       {
         "File": "03_Sundae.png",
@@ -86,15 +81,60 @@
         "Colors": "light"
       },
       {
+        "File": "03_Cheese.png",
+        "Title": "The Cheese Plate",
+        "Colors": "dark"
+      },
+      {
+        "File": "03_Pear.png",
+        "Title": "The Dessert",
+        "Colors": "light"
+      },
+      {
+        "File": "03_Pizza.png",
+        "Title": "The Pizza",
+        "Colors": "light"
+      },
+      {
+        "File": "03_Salad.png",
+        "Title": "The Salad",
+        "Colors": "light"
+      },
+      {
+        "File": "03_Sashimi.png",
+        "Title": "The Sashimi",
+        "Colors": "light"
+      },
+      {
+        "File": "03_Sushi.png",
+        "Title": "The Sushi",
+        "Colors": "light"
+      },
+      {
+        "File": "03_Watercake.png",
+        "Title": "The Watercake",
+        "Colors": "light"
+      },
+      {
+        "File": "03_Blocks.png",
+        "Title": "The Nutricubes",
+        "Colors": "dark"
+      },
+      {
         "File": "03_Cheesecake.png",
         "Title": "The Cheesecake",
+        "Colors": "light"
+      },
+      {
+        "File": "03_Poke.png",
+        "Title": "The Fruit Bowl",
         "Colors": "light"
       }
     ]
   },
   {
     "Series": "Visitors at Lily",
-    "Description": "Knock knock - who's there?",
+    "Description": "Knock, knock! Is someone home? Such a splendid banquet! The gentle glow, the tempting nectar... May I linger a while longer?",
     "Images": [
       {
         "File": "04_Bumblebee.png",
@@ -110,12 +150,52 @@
         "File": "04_Caterpillar.png",
         "Title": "The Caterpillar",
         "Colors": "dark"
+      },
+      {
+        "File": "04_Ants.png",
+        "Title": "The Ants",
+        "Colors": "dark"
+      },
+      {
+        "File": "04_Bee.png",
+        "Title": "The Bee in Rain",
+        "Colors": "dark"
+      },
+      {
+        "File": "04_Bee2.png",
+        "Title": "The Bee in Light",
+        "Colors": "dark"
+      },
+      {
+        "File": "04_Bug.png",
+        "Title": "The Bug",
+        "Colors": "dark"
+      },
+      {
+        "File": "04_Moth.png",
+        "Title": "The Moth",
+        "Colors": "dark"
+      },
+      {
+        "File": "04_Hummingbird.png",
+        "Title": "The Hummingbird",
+        "Colors": "dark"
+      },
+      {
+        "File": "04_Ladybug.png",
+        "Title": "The Ladybug",
+        "Colors": "dark"
+      },
+      {
+        "File": "04_Fly.png",
+        "Title": "The Mosquito",
+        "Colors": "dark"
       }
     ]
   },
   {
     "Series": "They've been among us all along!",
-    "Description": "I couldn't believe it myself, but then I found these photographs in my grandfather's old drawer.",
+    "Description": "I couldn't believe it myself, but then I found these photographs in my grandfather's old drawer. Looks like they've been around for a while.",
     "Images": [
       {
         "File": "05_Sloth.png",
@@ -126,12 +206,42 @@
         "File": "05_Quokka.png",
         "Title": "The Quokka",
         "Colors": "dark"
+      },
+      {
+        "File": "05_Chameleon.png",
+        "Title": "The Chameleon",
+        "Colors": "dark"
+      },
+      {
+        "File": "05E_Llama.png",
+        "Title": "The Llama",
+        "Colors": "dark"
+      },
+      {
+        "File": "05_Ostrich.png",
+        "Title": "The Ostrich",
+        "Colors": "dark"
+      },
+      {
+        "File": "05_Owl.png",
+        "Title": "The Owl",
+        "Colors": "dark"
+      },
+      {
+        "File": "05_Toad.png",
+        "Title": "The Toad",
+        "Colors": "dark"
+      },
+      {
+        "File": "05_Wolf.png",
+        "Title": "The Wolf",
+        "Colors": "dark"
       }
     ]
   },
   {
     "Series": "Chlorophyllic Cryptography",
-    "Description": "What are they trying to tell us?",
+    "Description": "Remarkable! These leaves bear curious inscriptions, akin to nature's own hieroglyphs. Intriguing, isn't it? One can't help but wonder about the stories they hold. Nature's mysteries, as captivating as ever.",
     "Images": [
       {
         "File": "06_Citymap.png",
@@ -142,12 +252,27 @@
         "File": "06_Archaic.png",
         "Title": "Archaic Inscriptions",
         "Colors": "dark"
+      },
+      {
+        "File": "06_Spirals.png",
+        "Title": "Spiral Instruction",
+        "Colors": "dark"
+      },
+      {
+        "File": "06_Chinese.png",
+        "Title": "Hieroglyphus",
+        "Colors": "dark"
+      },
+      {
+        "File": "06_Scripture.png",
+        "Title": "Math Leave",
+        "Colors": "dark"
       }
     ]
   },
   {
     "Series": "Polypore Reclaim",
-    "Description": "This is a takeover!",
+    "Description": "Have you deemed this no longer of use? We gladly accept it. Does it appear worn to you? Let us adorn it with our growth. If no one attends to it, it becomes a delectable sight to us. We seize it. This is our conquest!",
     "Images": [
       {
         "File": "07_Car.png",
@@ -163,12 +288,52 @@
         "File": "07_Washingmachine.png",
         "Title": "Washing Machine",
         "Colors": "dark"
+      },
+      {
+        "File": "07_Bike.png",
+        "Title": "Mushroom Bike",
+        "Colors": "dark"
+      },
+      {
+        "File": "07_Dish.png",
+        "Title": "Mushy Reception",
+        "Colors": "dark"
+      },
+      {
+        "File": "07_Pool.png",
+        "Title": "Pool Of Shrooms",
+        "Colors": "dark"
+      },
+      {
+        "File": "07_Rapeseed.png",
+        "Title": "Rape Seed",
+        "Colors": "dark"
+      },
+      {
+        "File": "07_Shed.png",
+        "Title": "Mushroom Shed",
+        "Colors": "dark"
+      },
+      {
+        "File": "07_Television.png",
+        "Title": "The Polypore Show",
+        "Colors": "dark"
+      },
+      {
+        "File": "07_Tire.png",
+        "Title": "Polypore Tire",
+        "Colors": "dark"
+      },
+      {
+        "File": "07_Tv.png",
+        "Title": "Mushroom Vision",
+        "Colors": "dark"
       }
     ]
   },
   {
     "Series": "Winter on Mars",
-    "Description": "Put on your space socks!",
+    "Description": "Ares VI, day 55: Weather remains, well, unpredictable. It's Harrison's shift for snow removal duty. Martens is set to install snow chains on the rover today. Temperature continues to decline, necessitating constant operation of the heating system; dwindling firewood supplies are a concern.",
     "Images": [
       {
         "File": "08_Astronaut.png",
@@ -178,6 +343,51 @@
       {
         "File": "08_Rover.png",
         "Title": "The Rover",
+        "Colors": "light"
+      },
+      {
+        "File": "08_Crater.png",
+        "Title": "Red Canyon",
+        "Colors": "dark"
+      },
+      {
+        "File": "08_Crater2.png",
+        "Title": "Cold Crater",
+        "Colors": "light"
+      },
+      {
+        "File": "08_Jump.png",
+        "Title": "Channel Of Mars",
+        "Colors": "light"
+      },
+      {
+        "File": "08_Landscape.png",
+        "Title": "White Plains",
+        "Colors": "light"
+      },
+      {
+        "File": "08_Plateau.png",
+        "Title": "Winter Morning Sun",
+        "Colors": "dark"
+      },
+      {
+        "File": "08_Rover2.png",
+        "Title": "Headlights",
+        "Colors": "light"
+      },
+      {
+        "File": "08_Station.png",
+        "Title": "The Outpos",
+        "Colors": "light"
+      },
+      {
+        "File": "08_Station2.png",
+        "Title": "Hibernation",
+        "Colors": "light"
+      },
+      {
+        "File": "08_Jump2.png",
+        "Title": "The Jump",
         "Colors": "light"
       }
     ]

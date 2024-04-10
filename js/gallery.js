@@ -1,6 +1,7 @@
 // list of built sets
 var sets_built = [];
 var sets_json = [];
+var lightboxes = [];
 
 // open a set gallery
 function open_set() {
@@ -35,22 +36,43 @@ function open_set() {
       // generate new image element from template and set id
       let new_image_set = $($("#tmp-gallery-set-box").html());
       let filepath = `images/gallery/${image.File}`;
-      new_image_set.find(".gallery-img").css("background-image", `url(${filepath})`);
+      let filepath_thumbnail = `images/gallery/thumbnails/${image.File}`;
+      filepath_thumbnail = filepath_thumbnail.substring(0, filepath_thumbnail.lastIndexOf(".")) + ".jpg";
+      new_image_set.find(".img-box").attr("src", filepath_thumbnail);
+
+      // insert link and lightbox descriptions
+      new_image_set.attr({
+        href: filepath,
+        "data-title": `"${image.Title}"`,
+        "data-description": `aus der Serie "${set.Series}"`
+      });
 
       // append image to gallery
-      new_set.append(new_image_set);
+      new_set.find(".gallery-set-main").append(new_image_set);
   
     });
 
     // add set gallery
     new_set.appendTo("main");
 
+    // add lightbox
+    let lightbox = GLightbox({selector: `#${set_id} a`, zoomable: false});
+    lightboxes.push(lightbox);
+
     // mark set as built
     sets_built.push(el.data("set"));
 
+    // check for overflow
+    var el_main = document.querySelector(`#${set_id}`);
+    console.log(el_main.offsetHeight + "/" + el_main.scrollHeight);
+    if (el_main.offsetHeight < el_main.scrollHeight) {
+      alert("Overflow!");
+    } else {
+    }
+
   } else {
 
-    // she set already built
+    // show set already built
     $("#" + set_id).show();
 
   }
@@ -83,8 +105,9 @@ $(function() {
       // generate new element from template
       let new_box = $($("#tmp-gallery-nav-box").html())
 
-      // insert image
-      let img_path = `images/gallery/${info.Image.File}`;
+      // insert thumbnail image (thumbnails folder and always .jpg)
+      let img_path = `images/gallery/thumbnails/${info.Image.File}`;
+      img_path = img_path.substring(0, img_path.lastIndexOf(".")) + ".jpg";
       new_box.find(".gallery-nav-img").css("background-image", `url(${img_path})`);
 
       // insert title
