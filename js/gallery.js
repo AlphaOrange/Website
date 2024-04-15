@@ -37,7 +37,6 @@ function open_set() {
       let new_image_set = $($("#tmp-gallery-set-box").html());
       let filepath = `images/gallery/${image.File}`;
       let filepath_thumbnail = `images/gallery/thumbnails/${image.File}`;
-      filepath_thumbnail = filepath_thumbnail.substring(0, filepath_thumbnail.lastIndexOf(".")) + ".jpg";
       new_image_set.find(".img-box").attr("src", filepath_thumbnail);
 
       // insert link and lightbox descriptions
@@ -107,7 +106,6 @@ $(function() {
 
       // insert thumbnail image (thumbnails folder and always .jpg)
       let img_path = `images/gallery/thumbnails/${info.Image.File}`;
-      img_path = img_path.substring(0, img_path.lastIndexOf(".")) + ".jpg";
       new_box.find(".gallery-nav-img").css("background-image", `url(${img_path})`);
 
       // insert title

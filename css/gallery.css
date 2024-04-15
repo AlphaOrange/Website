@@ -2,39 +2,38 @@
 
 @font-face {
   font-family: "Lobster Two";
-  src: url("LobsterTwo-Regular.ttf") format("truetype");
+  src: url("../fonts/LobsterTwo-Regular.ttf") format("truetype");
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: "Lobster Two";
-  src: url("LobsterTwo-Bold.ttf") format("truetype");
+  src: url("../fonts/LobsterTwo-Bold.ttf") format("truetype");
   font-weight: bold;
   font-style: normal;
 }
 
 @font-face {
   font-family: "Lobster Two";
-  src: url("LobsterTwo-BoldItalic.ttf") format("truetype");
+  src: url("../fonts/LobsterTwo-BoldItalic.ttf") format("truetype");
   font-weight: bold;
   font-style: italic;
 }
 
 @font-face {
   font-family: "Lobster Two";
-  src: url("LobsterTwo-Italic.ttf") format("truetype");
+  src: url("../fonts/LobsterTwo-Italic.ttf") format("truetype");
   font-weight: normal;
   font-style: italic;
 }
 
 @font-face {
   font-family: "Zilla Slab";
-  src: url("ZillaSlab-Regular.ttf") format("truetype");
+  src: url("../fonts/ZillaSlab-Regular.ttf") format("truetype");
   font-weight: normal;
   font-style: normal;
 }
-
 
 
 /* GENERAL */
@@ -50,7 +49,9 @@ html {
 body {
   position: relative;
   height: 100%;
+  width: 100%;
 }
+
 
 /* TYPOGRAPHY */
 
@@ -84,8 +85,17 @@ h2 {
 
 /* HEADER + NAVIGATION */
 
+#top-nav {
+  position: absolute;
+  top: 175px;
+  left: 0;
+  height: calc(100% - 175px);
+  width: 200px;
+  overflow-y: scroll;
+}
+
 #site-header {
-  position: fixed;
+  position: fixed; /* release site header from top nav */
   z-index: 999;
   top: 0;
   left: 0;
@@ -127,7 +137,7 @@ h2 {
 nav {
   background: #223;
   width: 200px;
-  padding: 200px 0 16px;
+  padding: 25px 0 16px;
 }
 
 /* SLIDER */
@@ -201,6 +211,7 @@ main {
   position: fixed;
   top: 0;
   right: 0;
+  overflow: auto;
 }
 
 .gallery-set {
@@ -280,10 +291,11 @@ main {
 /* SITE FOOTER */
 
 footer {
-  position: fixed;
-  right: 0;
-  bottom: 0;
+  position: absolute;
+  right: 20px;
+  bottom: 4px;
   font-size: 60%;
+  text-align: right;
   color: #000;
 }
 

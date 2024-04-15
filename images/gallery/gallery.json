@@ -4,47 +4,47 @@
     "Description": "Hey, grab your gear and let's head out into the frosty winter landscape. Those fruits look too good to resist. Can't wait to dig in and taste that freshness!",
     "Images": [
       {
-        "File": "01_Blueberry.png",
+        "File": "01_Blueberry.jpg",
         "Title": "The Blueberry",
         "Colors": "light"
       },
       {
-        "File": "01_Pomegranate.png",
+        "File": "01_Pomegranate.jpg",
         "Title": "The Pomegranate",
         "Colors": "light"
       },
       {
-        "File": "01_Banana.png",
+        "File": "01_Banana.jpg",
         "Title": "The Banana",
         "Colors": "light"
       },
       {
-        "File": "01_Coconut.png",
+        "File": "01_Coconut.jpg",
         "Title": "The Coconut",
         "Colors": "light"
       },
       {
-        "File": "01_Grape.png",
+        "File": "01_Grape.jpg",
         "Title": "The Grapes",
         "Colors": "light"
       },
       {
-        "File": "01_Lemon.png",
+        "File": "01_Lemon.jpg",
         "Title": "The Lemon",
         "Colors": "light"
       },
       {
-        "File": "01_Pineapple.png",
+        "File": "01_Pineapple.jpg",
         "Title": "The Pineapple",
         "Colors": "light"
       },
       {
-        "File": "01_Raspberry.png",
+        "File": "01_Raspberry.jpg",
         "Title": "The Raspberry",
         "Colors": "light"
       },
       {
-        "File": "01_Watermelon.png",
+        "File": "01_Watermelon.jpg",
         "Title": "The Watermelon",
         "Colors": "light"
       }
@@ -55,17 +55,17 @@
     "Description": "Behold these exquisite blooms! Aren't they simply captivating? Such wondrous hues, clearly crafted with so much passion!",
     "Images": [
       {
-        "File": "02_Black.png",
+        "File": "02_Black.jpg",
         "Title": "Passiflora of Night",
         "Colors": "dark"
       },
       {
-        "File": "02_Rainbow.png",
+        "File": "02_Rainbow.jpg",
         "Title": "Rainbow Passiflora",
         "Colors": "dark"
       },
       {
-        "File": "02_Red.png",
+        "File": "02_Red.jpg",
         "Title": "Passiflora of Dawn",
         "Colors": "dark"
       }
@@ -76,57 +76,57 @@
     "Description": "As your automated server today, may I recommend dish #12? It boasts a balance of nutritional values, enriched with vitamin supplements, meticulously crafted by our AI dish designer to not only satiate your palate but also delight your senses.",
     "Images": [
       {
-        "File": "03_Sundae.png",
+        "File": "03_Sundae.jpg",
         "Title": "The Sundae",
         "Colors": "light"
       },
       {
-        "File": "03_Cheese.png",
+        "File": "03_Cheese.jpg",
         "Title": "The Cheese Plate",
         "Colors": "dark"
       },
       {
-        "File": "03_Pear.png",
+        "File": "03_Pear.jpg",
         "Title": "The Dessert",
         "Colors": "light"
       },
       {
-        "File": "03_Pizza.png",
+        "File": "03_Pizza.jpg",
         "Title": "The Pizza",
         "Colors": "light"
       },
       {
-        "File": "03_Salad.png",
+        "File": "03_Salad.jpg",
         "Title": "The Salad",
         "Colors": "light"
       },
       {
-        "File": "03_Sashimi.png",
+        "File": "03_Sashimi.jpg",
         "Title": "The Sashimi",
         "Colors": "light"
       },
       {
-        "File": "03_Sushi.png",
+        "File": "03_Sushi.jpg",
         "Title": "The Sushi",
         "Colors": "light"
       },
       {
-        "File": "03_Watercake.png",
+        "File": "03_Watercake.jpg",
         "Title": "The Watercake",
         "Colors": "light"
       },
       {
-        "File": "03_Blocks.png",
+        "File": "03_Blocks.jpg",
         "Title": "The Nutricubes",
         "Colors": "dark"
       },
       {
-        "File": "03_Cheesecake.png",
+        "File": "03_Cheesecake.jpg",
         "Title": "The Cheesecake",
         "Colors": "light"
       },
       {
-        "File": "03_Poke.png",
+        "File": "03_Poke.jpg",
         "Title": "The Fruit Bowl",
         "Colors": "light"
       }
@@ -137,57 +137,57 @@
     "Description": "Knock, knock! Is someone home? Such a splendid banquet! The gentle glow, the tempting nectar... May I linger a while longer?",
     "Images": [
       {
-        "File": "04_Bumblebee.png",
+        "File": "04_Bumblebee.jpg",
         "Title": "The Bumblebee",
         "Colors": "dark"
       },
       {
-        "File": "04_Butterfly.png",
+        "File": "04_Butterfly.jpg",
         "Title": "The Butterfly",
         "Colors": "dark"
       },
       {
-        "File": "04_Caterpillar.png",
+        "File": "04_Caterpillar.jpg",
         "Title": "The Caterpillar",
         "Colors": "dark"
       },
       {
-        "File": "04_Ants.png",
+        "File": "04_Ants.jpg",
         "Title": "The Ants",
         "Colors": "dark"
       },
       {
-        "File": "04_Bee.png",
+        "File": "04_Bee.jpg",
         "Title": "The Bee in Rain",
         "Colors": "dark"
       },
       {
-        "File": "04_Bee2.png",
+        "File": "04_Bee2.jpg",
         "Title": "The Bee in Light",
         "Colors": "dark"
       },
       {
-        "File": "04_Bug.png",
+        "File": "04_Bug.jpg",
         "Title": "The Bug",
         "Colors": "dark"
       },
       {
-        "File": "04_Moth.png",
+        "File": "04_Moth.jpg",
         "Title": "The Moth",
         "Colors": "dark"
       },
       {
-        "File": "04_Hummingbird.png",
+        "File": "04_Hummingbird.jpg",
         "Title": "The Hummingbird",
         "Colors": "dark"
       },
       {
-        "File": "04_Ladybug.png",
+        "File": "04_Ladybug.jpg",
         "Title": "The Ladybug",
         "Colors": "dark"
       },
       {
-        "File": "04_Fly.png",
+        "File": "04_Fly.jpg",
         "Title": "The Mosquito",
         "Colors": "dark"
       }
@@ -198,42 +198,42 @@
     "Description": "I couldn't believe it myself, but then I found these photographs in my grandfather's old drawer. Looks like they've been around for a while.",
     "Images": [
       {
-        "File": "05_Sloth.png",
+        "File": "05_Sloth.jpg",
         "Title": "The Sloth",
         "Colors": "dark"
       },
       {
-        "File": "05_Quokka.png",
+        "File": "05_Quokka.jpg",
         "Title": "The Quokka",
         "Colors": "dark"
       },
       {
-        "File": "05_Chameleon.png",
+        "File": "05_Chameleon.jpg",
         "Title": "The Chameleon",
         "Colors": "dark"
       },
       {
-        "File": "05E_Llama.png",
+        "File": "05E_Llama.jpg",
         "Title": "The Llama",
         "Colors": "dark"
       },
       {
-        "File": "05_Ostrich.png",
+        "File": "05_Ostrich.jpg",
         "Title": "The Ostrich",
         "Colors": "dark"
       },
       {
-        "File": "05_Owl.png",
+        "File": "05_Owl.jpg",
         "Title": "The Owl",
         "Colors": "dark"
       },
       {
-        "File": "05_Toad.png",
+        "File": "05_Toad.jpg",
         "Title": "The Toad",
         "Colors": "dark"
       },
       {
-        "File": "05_Wolf.png",
+        "File": "05_Wolf.jpg",
         "Title": "The Wolf",
         "Colors": "dark"
       }
@@ -244,27 +244,27 @@
     "Description": "Remarkable! These leaves bear curious inscriptions, akin to nature's own hieroglyphs. Intriguing, isn't it? One can't help but wonder about the stories they hold. Nature's mysteries, as captivating as ever.",
     "Images": [
       {
-        "File": "06_Citymap.png",
+        "File": "06_Citymap.jpg",
         "Title": "Lost City Map",
         "Colors": "dark"
       },
       {
-        "File": "06_Archaic.png",
+        "File": "06_Archaic.jpg",
         "Title": "Archaic Inscriptions",
         "Colors": "dark"
       },
       {
-        "File": "06_Spirals.png",
+        "File": "06_Spirals.jpg",
         "Title": "Spiral Instruction",
         "Colors": "dark"
       },
       {
-        "File": "06_Chinese.png",
+        "File": "06_Chinese.jpg",
         "Title": "Hieroglyphus",
         "Colors": "dark"
       },
       {
-        "File": "06_Scripture.png",
+        "File": "06_Scripture.jpg",
         "Title": "Math Leave",
         "Colors": "dark"
       }
@@ -275,57 +275,57 @@
     "Description": "Have you deemed this no longer of use? We gladly accept it. Does it appear worn to you? Let us adorn it with our growth. If no one attends to it, it becomes a delectable sight to us. We seize it. This is our conquest!",
     "Images": [
       {
-        "File": "07_Car.png",
+        "File": "07_Car.jpg",
         "Title": "Mushroom Car",
         "Colors": "dark"
       },
       {
-        "File": "07_Electricbox.png",
+        "File": "07_Electricbox.jpg",
         "Title": "Mushroom Box",
         "Colors": "dark"
       },
       {
-        "File": "07_Washingmachine.png",
+        "File": "07_Washingmachine.jpg",
         "Title": "Washing Machine",
         "Colors": "dark"
       },
       {
-        "File": "07_Bike.png",
+        "File": "07_Bike.jpg",
         "Title": "Mushroom Bike",
         "Colors": "dark"
       },
       {
-        "File": "07_Dish.png",
+        "File": "07_Dish.jpg",
         "Title": "Mushy Reception",
         "Colors": "dark"
       },
       {
-        "File": "07_Pool.png",
+        "File": "07_Pool.jpg",
         "Title": "Pool Of Shrooms",
         "Colors": "dark"
       },
       {
-        "File": "07_Rapeseed.png",
+        "File": "07_Rapeseed.jpg",
         "Title": "Rape Seed",
         "Colors": "dark"
       },
       {
-        "File": "07_Shed.png",
+        "File": "07_Shed.jpg",
         "Title": "Mushroom Shed",
         "Colors": "dark"
       },
       {
-        "File": "07_Television.png",
+        "File": "07_Television.jpg",
         "Title": "The Polypore Show",
         "Colors": "dark"
       },
       {
-        "File": "07_Tire.png",
+        "File": "07_Tire.jpg",
         "Title": "Polypore Tire",
         "Colors": "dark"
       },
       {
-        "File": "07_Tv.png",
+        "File": "07_Tv.jpg",
         "Title": "Mushroom Vision",
         "Colors": "dark"
       }
@@ -336,59 +336,263 @@
     "Description": "Ares VI, day 55: Weather remains, well, unpredictable. It's Harrison's shift for snow removal duty. Martens is set to install snow chains on the rover today. Temperature continues to decline, necessitating constant operation of the heating system; dwindling firewood supplies are a concern.",
     "Images": [
       {
-        "File": "08_Astronaut.png",
+        "File": "08_Astronaut.jpg",
         "Title": "The Astronaut",
         "Colors": "light"
       },
       {
-        "File": "08_Rover.png",
+        "File": "08_Rover.jpg",
         "Title": "The Rover",
         "Colors": "light"
       },
       {
-        "File": "08_Crater.png",
+        "File": "08_Crater.jpg",
         "Title": "Red Canyon",
         "Colors": "dark"
       },
       {
-        "File": "08_Crater2.png",
+        "File": "08_Crater2.jpg",
         "Title": "Cold Crater",
         "Colors": "light"
       },
       {
-        "File": "08_Jump.png",
+        "File": "08_Jump.jpg",
         "Title": "Channel Of Mars",
         "Colors": "light"
       },
       {
-        "File": "08_Landscape.png",
+        "File": "08_Landscape.jpg",
         "Title": "White Plains",
         "Colors": "light"
       },
       {
-        "File": "08_Plateau.png",
+        "File": "08_Plateau.jpg",
         "Title": "Winter Morning Sun",
         "Colors": "dark"
       },
       {
-        "File": "08_Rover2.png",
+        "File": "08_Rover2.jpg",
         "Title": "Headlights",
         "Colors": "light"
       },
       {
-        "File": "08_Station.png",
+        "File": "08_Station.jpg",
         "Title": "The Outpos",
         "Colors": "light"
       },
       {
-        "File": "08_Station2.png",
+        "File": "08_Station2.jpg",
         "Title": "Hibernation",
         "Colors": "light"
       },
       {
-        "File": "08_Jump2.png",
+        "File": "08_Jump2.jpg",
         "Title": "The Jump",
         "Colors": "light"
+      }
+    ]
+  },
+  {
+    "Series": "Invitation to the Snails",
+    "Description": "Deep in the woods there is a place of cheer, of laughter, where children are smiling and grown-ups are captivated by the scents of the food. Careful on the stairs, it's a bit slippery there.",
+    "Images": [
+      {
+        "File": "09_Christmas.jpg",
+        "Title": "Christmas Party",
+        "Colors": "dark"
+      },
+      {
+        "File": "09_Easter.jpg",
+        "Title": "Easter Celebration",
+        "Colors": "dark"
+      },
+      {
+        "File": "09_Halloween.jpg",
+        "Title": "Halloween Night",
+        "Colors": "dark"
+      },
+      {
+        "File": "09_SummerParty.jpg",
+        "Title": "Summer Festival",
+        "Colors": "dark"
+      },
+      {
+        "File": "09_Thanksgiving.jpg",
+        "Title": "Thanksgiving Feast",
+        "Colors": "dark"
+      }
+    ]
+  },
+  {
+    "Series": "Carnivore Candy",
+    "Description": "Two eyes, two kidneys, a heart, three ... skulls. Would you like another ear? Oder a nose? These are so sweet!",
+    "Images": [
+      {
+        "File": "10_Skull.jpg",
+        "Title": "Raspberry Skull",
+        "Colors": "dark"
+      },
+      {
+        "File": "10_brain.jpg",
+        "Title": "Chocolate Brain",
+        "Colors": "dark"
+      },
+      {
+        "File": "10_Ear.jpg",
+        "Title": "Sweet Ear",
+        "Colors": "dark"
+      },
+      {
+        "File": "10_Eye.jpg",
+        "Title": "Lollipop Eye",
+        "Colors": "dark"
+      },
+      {
+        "File": "10_Hand.jpg",
+        "Title": "Twisted Hand",
+        "Colors": "dark"
+      },
+      {
+        "File": "10_Herz.jpg",
+        "Title": "Heart Pop",
+        "Colors": "dark"
+      },
+      {
+        "File": "10_Ingestment.jpg",
+        "Title": "Ingested Smarties",
+        "Colors": "dark"
+      },
+      {
+        "File": "10_Kidneys.jpg",
+        "Title": "Cotton Kidneys",
+        "Colors": "dark"
+      },
+      {
+        "File": "10_Liver.jpg",
+        "Title": "Jelly Liver",
+        "Colors": "dark"
+      },
+      {
+        "File": "10_Lungs.jpg",
+        "Title": "Licorice Lungs",
+        "Colors": "dark"
+      },
+      {
+        "File": "10_Spine.jpg",
+        "Title": "Minty Spine",
+        "Colors": "dark"
+      },
+      {
+        "File": "10_tongue.jpg",
+        "Title": "Sour Tongue",
+        "Colors": "dark"
+      },
+      {
+        "File": "10_Candybag1.jpg",
+        "Title": "Bag of Brains",
+        "Colors": "dark"
+      },
+      {
+        "File": "10_Candybag2.jpg",
+        "Title": "Mixed Bag of Organs",
+        "Colors": "dark"
+      },
+      {
+        "File": "10_Skeleton.jpg",
+        "Title": "Tasty Skeleton",
+        "Colors": "dark"
+      }
+    ]
+  },
+  {
+    "Series": "Each of Us is Unique",
+    "Description": "Sometimes, one must take a closer look. We are not all cut from the same cloth. In fact, it would be a tragedy if such were the case. Each of us possesses distinctive features, special abilities, and peculiarities. It is these traits that define us. Each of us is unique.",
+    "Images": [
+      {
+        "File": "11_antennae.jpg",
+        "Title": "The Lawyer",
+        "Colors": "dark"
+      },
+      {
+        "File": "11_antlers.jpg",
+        "Title": "Summer Day at the Beach",
+        "Colors": "dark"
+      },
+      {
+        "File": "11_donkey.jpg",
+        "Title": "Boy at the Court",
+        "Colors": "dark"
+      },
+      {
+        "File": "11_horns.jpg",
+        "Title": "Watching the Lake",
+        "Colors": "dark"
+      },
+      {
+        "File": "11_peacock.jpg",
+        "Title": "The Window",
+        "Colors": "dark"
+      },
+      {
+        "File": "11_tentacle.jpg",
+        "Title": "On the Balcony",
+        "Colors": "dark"
+      },
+      {
+        "File": "11_unicorn.jpg",
+        "Title": "Construction Worker",
+        "Colors": "dark"
+      },
+      {
+        "File": "11_rooster.jpg",
+        "Title": "Stunning View",
+        "Colors": "dark"
+      }
+    ]
+  },
+  {
+    "Series": "Cats were there first",
+    "Description": "Houston! Houston, we have an unusual discovery here! A footprint. No, it's not a human footprint... it's more like... a pawprint? Yes, you heard correctly, a pawprint... I don't know ... a cat's?",
+    "Images": [
+      {
+        "File": "12_Northpole.jpg",
+        "Title": "Robert Furry",
+        "Colors": "light"
+      },
+      {
+        "File": "12_America.jpg",
+        "Title": "Christopurr Columbus",
+        "Colors": "dark"
+      },
+      {
+        "File": "12_DwarfVillage.jpg",
+        "Title": "Simba Jones",
+        "Colors": "dark"
+      },
+      {
+        "File": "12_ElDorado.jpg",
+        "Title": "Walter Whiskers",
+        "Colors": "dark"
+      },
+      {
+        "File": "12_Mars.jpg",
+        "Title": "Mark Catney",
+        "Colors": "dark"
+      },
+      {
+        "File": "12_Moon.jpg",
+        "Title": "Neil Pawstrong",
+        "Colors": "dark"
+      },
+      {
+        "File": "12_MountEverest.jpg",
+        "Title": "Edmund Meow",
+        "Colors": "light"
+      },
+      {
+        "File": "12_Titanic.jpg",
+        "Title": "Bob the Explorer",
+        "Colors": "dark"
       }
     ]
   }
