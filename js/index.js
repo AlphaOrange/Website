@@ -30,6 +30,8 @@ $(function() {
 
       // get image info from array
       let info = images[i];
+      let img_path = `images/gallery/${info.File}`;
+      let img_thumb_path = `images/gallery/thumbnails/${info.File}`;
 
       // generate new element from template
       let new_box = $($("#tmp-gallery-box").html())
@@ -40,8 +42,7 @@ $(function() {
       new_box.find(".gallery-title").text(info.Title);
 
       // insert image
-      let img_path = `images/gallery/${info.File}`;
-      new_box.find(".gallery-img").css("background-image", `url(${img_path})`);
+      new_box.find(".gallery-img").css("background-image", `url(${img_thumb_path})`);
 
       // insert link and lightbox descriptions
       new_box.find("a").attr({

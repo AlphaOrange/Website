@@ -595,5 +595,122 @@
         "Colors": "dark"
       }
     ]
+  },
+  {
+    "Series": "King Protea of Night",
+    "Description": "Behold the King that reigns over the night, steadfast against the chill, illuminating the darkness, and sheltering the tender buds. All eyes turn skyward as he pays homage to the midnight moon.",
+    "Images": [
+      {
+        "File": "13_KingProtea11.jpg",
+        "Title": "Magenta Rain King",
+        "Colors": "dark"
+      },
+      {
+        "File": "13_KingProtea12.jpg",
+        "Title": "Winter Night King",
+        "Colors": "dark"
+      },
+      {
+        "File": "13_KingProtea13.jpg",
+        "Title": "Frost Light King",
+        "Colors": "dark"
+      },
+      {
+        "File": "13_KingProtea14.jpg",
+        "Title": "Fairy Magic King",
+        "Colors": "dark"
+      },
+      {
+        "File": "13_KingProtea15.jpg",
+        "Title": "Arctiv Forst King",
+        "Colors": "light"
+      },
+      {
+        "File": "13_KingProtea21.jpg",
+        "Title": "Sparkle Blossom King",
+        "Colors": "dark"
+      },
+      {
+        "File": "13_KingProtea22.jpg",
+        "Title": "North Star King",
+        "Colors": "dark"
+      },
+      {
+        "File": "13_KingProtea23.jpg",
+        "Title": "King's Succession",
+        "Colors": "dark"
+      },
+      {
+        "File": "13_KingProtea24.jpg",
+        "Title": "Glowing Heart King",
+        "Colors": "dark"
+      },
+      {
+        "File": "13_KingProtea25.jpg",
+        "Title": "Winter Dust King",
+        "Colors": "dark"
+      },
+      {
+        "File": "13_KingProtea32.jpg",
+        "Title": "Pastel Light King",
+        "Colors": "light"
+      },
+      {
+        "File": "13_KingProtea33.jpg",
+        "Title": "Fireplace King",
+        "Colors": "dark"
+      },
+      {
+        "File": "13_KingProtea34.jpg",
+        "Title": "Vivid Rainbow King",
+        "Colors": "dark"
+      },
+      {
+        "File": "13_KingProtea35.jpg",
+        "Title": "Winter Daybreak King",
+        "Colors": "dark"
+      },
+      {
+        "File": "13_KingProtea36.jpg",
+        "Title": "The Fire King",
+        "Colors": "dark"
+      }
+    ]
+  },
+  {
+    "Series": "Holographic Zoo",
+    "Description": "This is what we call a zoo now: an observatory where you can marvel at the magnificence of creatures that once wandered through the lush habitats, majestic deserts, and nature's untouched realms, back in the age of wildlife.",
+    "Images": [
+      {
+        "File": "14_lion.jpg",
+        "Title": "Panthera Leo",
+        "Colors": "dark"
+      },
+      {
+        "File": "14_giraffe.jpg",
+        "Title": "Giraffa",
+        "Colors": "dark"
+      },
+      {
+        "File": "14_elephant.jpg",
+        "Title": "Elephantidae",
+        "Colors": "dark"
+      },
+      {
+        "File": "14_gorilla.jpg",
+        "Title": "Gorilla",
+        "Colors": "dark"
+      },
+      {
+        "File": "14_polarbear.jpg",
+        "Title": "Ursus Maritimus",
+        "Colors": "dark"
+      },
+      {
+        "File": "14_whale.jpg",
+        "Title": "Balaenoptera Musculus",
+        "Colors": "dark"
+      }
+    ]
   }
 ]

@@ -1,3 +1,6 @@
 *.afdesign
 images/gallery/*.png
+images/gallery/*.jpg
+images/gallery/*/*.*
 images/gallery/thumbnails/*
+dist/

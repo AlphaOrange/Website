@@ -240,6 +240,7 @@ main {
   color: #223;
   font-size: 100%;
   margin: 0.5em auto;
+  padding: 0 0.5em;
 }
 
 .gallery-set-main {
